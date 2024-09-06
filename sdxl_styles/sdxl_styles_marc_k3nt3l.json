@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Dva",
+    "prompt": "DVaOWXL, brown eyes, brown hair, long hair, swept bangs, headphones, facial mark, whisker markins, medium breasts, high collar, blue bodysuit, pilot suit, animal print, white gloves, white boots.",
+    "negative_prompt": ""
+  },
+  
+    "name": "Tracer",
+    "prompt": "TracerOv2,1girl,short hair,brown hair,gloves,brown eyes,freckles,black gloves,bodysuit,swept bangs,piercing,spiked hair,goggles,ear piercing,skin tight,sleeves rolled up,vambraces,cross-laced clothes,tight,leather,strap,harness,leather jacket,tight pants,chest harness,orange bodysuit,bomber jacket,orange goggles,cross-laced legwear,tracer (overwatch).",
+    "negative_prompt": ""
+  },
+]

@@ -1,0 +1,74 @@
+{
+    "default_model": "ponyDiffusionV6XL_v6StartWithThisOne.safetensors",
+    "default_refiner": "None",
+    "default_refiner_switch": 0.5,
+    "default_loras": [
+        [
+            true,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ]
+    ],
+    "default_cfg_scale": 7.0,
+    "default_sample_sharpness": 2.0,
+    "default_sampler": "dpmpp_2m_sde_gpu",
+    "default_scheduler": "karras",
+    "default_performance": "Quality",
+    "default_prompt": "score_9,score_8_up,score_7_up,1girl",
+    "default_prompt_negative": "score_4,score_3,score_2,score_1,ugly,bad hand,bad feet",
+    "default_styles": [
+        "Fooocus Pony"
+    ],
+    "default_aspect_ratio": "896*1152",
+	"default_vae": "sdxl_vae.safetenors"
+    "default_overwrite_step": -1,
+	"vae_downloads": {
+		"sdxl_vae.safetensors": "https://civitai.com/api/download/models/290640?type=VAE&format=SafeTensor"
+	},
+    "checkpoint_downloads": {
+		"https://civitai.com/api/download/models/290640?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=adab4e9289857614c8ee31b6abcf4090"
+	},
+    "embeddings_downloads": {},
+    "lora_downloads": {
+        "assfrontview.safetensors": "https://civitai.com/api/download/models/608394?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
+        "hugebreast.safetensors": "https://civitai.com/api/download/models/623811?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
+        "ass slider.safetensors": "https://civitai.com/api/download/models/530596?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
+        "breasts rest on clothes.safetensors": "https://civitai.com/api/download/models/450975?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
+        "3D Render Style.safetensors": "https://civitai.com/api/download/models/668873?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
+		"3d_blender.safetensors": "https://civitai.com/api/download/models/400351?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
+		"3D SHADER.safetensors": "https://civitai.com/api/download/models/631366?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
+		"zzzellen.safetensors": "https://civitai.com/api/download/models/656090?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
+		"zenless.safetensors": "https://civitai.com/api/download/models/718386?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
+		"tracerov2.safetensors": "https://civitai.com/api/download/models/590385?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
+		"dvaowxl.safetensors": "https://civitai.com/api/download/models/518510?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090"
+		
+		
+    },
+    "previous_default_models": [
+        "juggernautXL_version8Rundiffusion.safetensors",
+        "juggernautXL_version7Rundiffusion.safetensors",
+        "juggernautXL_v7Rundiffusion.safetensors",
+        "juggernautXL_version6Rundiffusion.safetensors",
+        "juggernautXL_v6Rundiffusion.safetensors"
+    ]
+}
