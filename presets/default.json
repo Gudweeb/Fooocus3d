@@ -40,7 +40,7 @@
         "Fooocus Pony"
     ],
     "default_aspect_ratio": "896*1152",
-	"default_vae": "sdxl_vae.safetenors"
+	"default_vae": "sdxl_vae.safetenors",
     "default_overwrite_step": -1,
 	"vae_downloads": {
 		"sdxl_vae.safetensors": "https://civitai.com/api/download/models/290640?type=VAE&format=SafeTensor"
