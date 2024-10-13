@@ -43,12 +43,12 @@
     "default_overwrite_step": -1,
     "embeddings_downloads": {},
     "lora_downloads": {
-        "csr style.safetensors": "https://civitai.com/api/download/models/379995?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
-	"rar.safetensors": "https://civitai.com/api/download/models/737472?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
+        "np_trt.safetensors": "https://civitai.com/api/download/models/923592?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
 	"np_aiu.safetensors": "https://civitai.com/api/download/models/948967?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
 	"np_シロ９じら.safetensors": "https://civitai.com/api/download/models/941598?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
 	"vanripper.safetensors": "https://civitai.com/api/download/models/895984?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
-	"shadowheart.safetenors": "https://civitai.com/api/download/models/887054?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090"
+	"shadowheart.safetenors": "https://civitai.com/api/download/models/887054?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
+	"np?_karasu raven.safetensors": "https://civitai.com/api/download/models/925810?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090"
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
