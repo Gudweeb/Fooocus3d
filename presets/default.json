@@ -35,11 +35,8 @@
     "default_scheduler": "karras",
     "default_performance": "Quality",
     "default_prompt": " 1girl, solo",
-    "default_prompt_negative": "lowres, worst quality, low quality, bad anatomy, bad hands, multiple views, abstract, signature, hands behind back",
-    "default_styles": [
-        "Fooocus Pony"
-    ],
-    "default_aspect_ratio": "896*1152",
+    "default_prompt_negative": "lowres, worst quality, low quality, bad anatomy, bad hands, multiple views",
+    "default_aspect_ratio": "1024*1024",
     "default_overwrite_step": -1,
     "embeddings_downloads": {},
     "lora_downloads": {
