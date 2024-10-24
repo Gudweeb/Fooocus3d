@@ -47,8 +47,8 @@
 	"shadowheart.safetensors": "https://civitai.com/api/download/models/887054?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
 	"np?_karasu raven.safetensors": "https://civitai.com/api/download/models/925810?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
 	"relhstyle.safetensors": "https://civitai.com/api/download/models/986504?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
-	"np_Takorin Style": "https://civitai.com/api/download/models/983310?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
-	"np_Sinensian Style": "https://civitai.com/api/download/models/982452?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090"
+	"np_Takorin Style.safetensors": "https://civitai.com/api/download/models/983310?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
+	"np_Sinensian Style.safetensors": "https://civitai.com/api/download/models/982452?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090"
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
