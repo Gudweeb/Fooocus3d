@@ -32,6 +32,7 @@
     "default_cfg_scale": 5.0,
     "default_sample_sharpness": 2.0,
     "default_sampler": "euler_ancestral",
+    "default_styles": [],
     "default_scheduler": "karras",
     "default_performance": "Quality",
     "default_prompt": " 1girl, solo",
@@ -48,7 +49,8 @@
 	"np?_karasu raven.safetensors": "https://civitai.com/api/download/models/925810?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
 	"relhstyle.safetensors": "https://civitai.com/api/download/models/986504?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
 	"np_Takorin Style.safetensors": "https://civitai.com/api/download/models/983310?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
-	"np_Sinensian Style.safetensors": "https://civitai.com/api/download/models/982452?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090"
+	"np_Sinensian Style.safetensors": "https://civitai.com/api/download/models/982452?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
+	"SagawaStyle.safetensors": "https://civitai.com/api/download/models/989634?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090"
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
