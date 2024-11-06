@@ -50,7 +50,8 @@
 	"SagawaStyle.safetensors": "https://civitai.com/api/download/models/989634?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
 	"chiaroscuro.safetensors": "https://civitai.com/api/download/models/1024597?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
 	"minakami.safetensors": "https://civitai.com/api/download/models/997729?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
-	"taesi.safetensors": "https://civitai.com/api/download/models/1026874?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090"
+	"taesi.safetensors": "https://civitai.com/api/download/models/1026874?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
+	"woohyoot.safetensors": "https://civitai.com/api/download/models/1006377?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090"
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
