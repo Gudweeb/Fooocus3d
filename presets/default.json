@@ -29,17 +29,20 @@
             1.0
         ]
     ],
-    "default_cfg_scale": 5.0,
+    "default_cfg_scale": 3.5,
     "default_sample_sharpness": 2.0,
     "default_sampler": "euler_ancestral",
     "default_styles": [],
     "default_scheduler": "karras",
     "default_performance": "Quality",
-    "default_prompt": " 1girl, solo",
-    "default_prompt_negative": "(worst quality,furry,anthro),lowres,low quality, bad anatomy, bad hands, multiple views",
+    "default_prompt": "masterpiece, best quality, newest, absurdres, highres,1girl,solo,",
+    "default_prompt_negative": "worst quality, old, early, low quality, lowres, signature, username, logo, bad hands, mutated hands, mammal, anthro, furry, ambiguous form, feral",
     "default_aspect_ratio": "1024*1024",
     "default_overwrite_step": -1,
     "embeddings_downloads": {},
+    "vae_downloads":{
+	    "sdxl_vae.safetensors": "https://civitai.com/api/download/models/333245?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090"
+    },
     "lora_downloads": {
         "bob (bobtheneet).safetensors": "https://civitai.com/api/download/models/1021869?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
 	"wchi.safetensors": "https://civitai.com/api/download/models/986357?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
